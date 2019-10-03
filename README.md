@@ -23,8 +23,8 @@ DEPENDENCIES
 Run
 --------------
 The tests can be executed as a cucumber test  
-C:/>cd AutomationAPI
-C:/>cucumber --profile html_report
+C:/>cd AutomationAPI <br />
+C:/>cucumber --profile html_report<br />
 
 Test Framework OPERATIONAL MANUAL
 ---------------------------------
