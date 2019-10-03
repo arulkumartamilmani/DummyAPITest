@@ -10,7 +10,7 @@ The following are the directory levels & Files
 
 AutomationAPI/features/employee.feature     - **Gherkin document** <br />
 AutomationAPI/features/step_defenition/     - **Ruby based scripts for Automation**<br />
-AutomationAPI/features/api/                 - **Ruby scripts with API calls to interact with DummyAPI	**<br />
+AutomationAPI/features/api/                 - **Ruby scripts with API calls to interact with DummyAPI**<br />
 AutomationAPI/features/spec/spec_helper.rb  - **Helper file pointing to the API file**<br />
 AutomationAPI/cucumber.yml                  - **Profile and Test result folder configuration**<br />
 AutomationAPI/features_report.html          - **Test Result file** <br />
